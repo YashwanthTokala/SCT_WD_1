@@ -3,8 +3,8 @@ import React from 'react'
 const About = () => {
     return (
         <>
-            <div style={{ marginTop: "90px" }}>
-                <div className="container mt-5 pt-5">
+            <div style={{ marginTop: "50px" }}>
+                <div className="container mt-5 pt-1">
                     <h1 className="text-center mb-4">About</h1>
                     <p className="lead text-center">
                         This project is a responsive Navbar developed as part of an internship at <strong>SkillCraft Technology</strong>.
