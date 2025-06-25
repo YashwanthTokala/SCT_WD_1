@@ -12,8 +12,7 @@ This project is a fully responsive landing page built as part of the **SkillCraf
 
 ## 📸 Screenshots
 
-![screenshot](<img width="946" alt="task1_1" src="https://github.com/user-attachments/assets/052308e6-8ae3-45eb-85d1-15595b0d1345" />
-)
+![screenshot](<img width="500" alt="task1_1" src="https://github.com/user-attachments/assets/052308e6-8ae3-45eb-85d1-15595b0d1345" />)
 
 ## 🛠️ Built With
 
