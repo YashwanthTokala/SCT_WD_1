@@ -34,8 +34,8 @@ Thanks to **SkillCraft Technology** for this exciting opportunity to learn and b
 
 ## 🔗 Connect with Me
 
-- GitHub: [yourusername](https://github.com/YashwanthTokala)
-- LinkedIn: [yourLinkedIn](https://www.linkedin.com/in/yashwanth-tokala-086484361/)
+- GitHub: [YashwanthTokala](https://github.com/YashwanthTokala)
+- LinkedIn: [yashwanth-tokala](https://www.linkedin.com/in/yashwanth-tokala-086484361/)
 
 
 
