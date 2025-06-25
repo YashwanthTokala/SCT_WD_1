@@ -12,13 +12,15 @@ This project is a fully responsive landing page built as part of the **SkillCraf
 
 ## 📸 Screenshots
 
-![screenshot](<img width="500" alt="task1_1" src="https://github.com/user-attachments/assets/052308e6-8ae3-45eb-85d1-15595b0d1345" />)
+<img width="946" alt="task1_1" src="https://github.com/user-attachments/assets/c2c42a44-a754-4506-93d1-d14ba57e8105" />
+
+
 
 ## 🛠️ Built With
 
 - HTML5 + CSS3
-- JavaScript (vanilla) or React (based on your implementation)
-- Bootstrap (optional, if used)
+- JavaScript (vanilla) or React
+- Bootstrap
 
 
 ## 💼 Internship Task
